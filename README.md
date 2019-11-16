@@ -1,4 +1,3 @@
 # BootCamp
 
-Desafio 01 do BootCamp
-Ambiente e conceitos
+Neste repositorio estararei colocando os resultados dos desafios do BootCamp da RocketSeta o GoStack
